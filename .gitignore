@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.pem
+*.key
+*.secret
+*.token
+.aws/
+.ssh/
+.cache/
+lost+found/
