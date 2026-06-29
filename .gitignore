@@ -1,0 +1,8 @@
+.Trash-1000/
+.virtual_documents/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+**/.DS_Store
+lost+found/
+.sparkmagic/
