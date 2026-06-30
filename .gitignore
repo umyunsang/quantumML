@@ -16,3 +16,5 @@ lost+found/
 .DS_Store
 **/.DS_Store
 .sparkmagic/
+Braket algorithms/notebooks
+Braket examples/examples
